@@ -116,7 +116,7 @@ const questions = [
   { "id": 107, "category": "เทคโนโลยีสารสนเทศ", "question": "HDMI ใช้เชื่อมต่ออะไร?", "options": ["เมาส์", "คีย์บอร์ด", "จอภาพและเสียง", "ปลั๊กไฟ"], "answerIndex": 2, "explanation": "ใช้ส่งสัญญาณภาพและเสียงคุณภาพสูง" },
   { "id": 108, "category": "เทคโนโลยีสารสนเทศ", "question": "E-Book คืออะไร?", "options": ["จดหมายอิเล็กทรอนิกส์", "หนังสืออิเล็กทรอนิกส์", "การธนาคารออนไลน์", "ตลาดออนไลน์"], "answerIndex": 1, "explanation": "Electronic Book หนังสือที่อ่านผ่านหน้าจอ" },
   { "id": 109, "category": "เทคโนโลยีสารสนเทศ", "question": "การ Backup ข้อมูลหมายถึง?", "options": ["การลบข้อมูล", "การสำรองข้อมูลเพื่อป้องกันการสูญหาย", "การส่งข้อมูลให้เพื่อน", "การย่อขนาดไฟล์"], "answerIndex": 1, "explanation": "การทำสำเนาข้อมูลเก็บไว้" },
-  { "id": 110, "category": "เทคโนโลยีสารสนเทศ", "question": "AI ย่อมาจากอะไร?", "options": ["Artificial Intelligence", "Auto Information", "Active Internet", "Android Input"], "answerIndex": 0, "explanation": "ปัญญาประดิษฐ์" }
+  { "id": 110, "category": "เทคโนโลยีสารสนเทศ", "question": "AI ย่อมาจากอะไร?", "options": ["Artificial Intelligence", "Auto Information", "Active Internet", "Android Input"], "answerIndex": 0, "explanation": "ปัญญาประดิษฐ์" },
   
   // --- หมวดที่ 5: กฎหมายที่ประชาชนควรรู้ (20 ข้อ) ---
   { "id": 111, "category": "กฎหมาย", "question": "ชายและหญิงจะทำการสมรสได้เมื่ออายุครบกี่ปี?", "options": ["15 ปี", "17 ปี", "18 ปี", "20 ปี"], "answerIndex": 1, "explanation": "ตาม ป.พ.พ. ต้องมีอายุครบ 17 ปีบริบูรณ์" },
